@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257625180170",
+    "project_id": "list-sshwang",
+    "storage_bucket": "list-sshwang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257625180170:android:326a22a7131517767977f3",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedmcIC1Sz6l0-thI2XQXd3QAqEsEZzro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
